@@ -6,7 +6,9 @@ categories:
 - ブログ
 tags:
 - Hugo
+toc: false
 ---
 
 なんとなく前々から気になっていた [Hugo](https://gohugo.io/) を使ってみることにした。
+
 いつまで続くかはわからないけれども。

@@ -8,7 +8,9 @@
 
     {{ partial "featured_image" . }}
 
-    {{ .TableOfContents }}
+    {{ if (.Params.toc) }}
+      {{ .TableOfContents }}
+    {{ end }}
 
     {{ .Content }}
 

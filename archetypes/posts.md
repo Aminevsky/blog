@@ -6,5 +6,6 @@ categories:
 - xxx
 tags:
 - yyy
+toc: true
 ---
 
