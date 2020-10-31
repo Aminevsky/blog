@@ -1,4 +1,4 @@
-baseURL = "http://aminevsky.github.io/blog"
+baseURL = "https://aminevsky.github.io/blog"
 languageCode = "ja-jp"
 title = "aminevsky.blog"
 theme = "hugo-kiera"
@@ -36,5 +36,5 @@ hasCJKLanguage = true
 
   [[menu.main]]
     name = "Home"
-    url = "http://aminevsky.github.io"
+    url = "https://aminevsky.github.io"
     weight = 100
