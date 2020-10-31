@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 title = "aminevsky.blog"
 theme = "hugo-kiera"
 hasCJKLanguage = true
+googleAnalytics  = "G-S0FVLSJCH4"
 
 [author]
   name = "Aminevsky"
